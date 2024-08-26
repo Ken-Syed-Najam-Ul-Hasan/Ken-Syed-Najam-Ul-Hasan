@@ -10,7 +10,7 @@
 <br>
 <p align="center">
     <a href="https://leetcode.com/najam2050/"><img width="48%" src="https://leetcode.card.workers.dev/najam2050?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/Ken-Syed-Najam-Ul-Hasan"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najam2012&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/Ken-Syed-Najam-Ul-Hasan"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Syed-Najam-Ul-Hasan&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 <p>
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=8520011&theme=dark" />
